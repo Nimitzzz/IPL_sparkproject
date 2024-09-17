@@ -1,6 +1,8 @@
 # IPL Data Analysis using Spark
 
-![Cricket Match](./1.webp)
+<p align="center">
+  <img src="./1.webp" alt="Cricket Match" width="500"/>
+</p>
 
 ## Project Description
 
